@@ -1,4 +1,4 @@
-<script>
+<sub>
 npm ls -g
 ├── @nomiclabs/hardhat-waffle@2.0.3
 ├── bootstrap@5.2.3 !!!
@@ -8,4 +8,4 @@ npm ls -g
 ├── vue-router@4.1.6 !!!
 ├── vue@3.2.47 !!!
 ├── web3@1.8.0
-</script>
+</sub>
